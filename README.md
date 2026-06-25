@@ -54,7 +54,7 @@ chainToSwitch(7);
 ```
 ---
 
-> **"Walking on water and developing software from a specification are easy if both are frozen."**  
+> **"Walking on water and developing software from a specification are easy if both are frozen."**\
 Edward V. Berard | American Software Engineer*
 
 
