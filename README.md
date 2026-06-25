@@ -1,18 +1,17 @@
 # Mein erstes GitHub Repository
 
-### Lernziele
+## Lernziele:
 - HTML
 - CSS
 - JavsScript
 - CSS
 - React
 
-## Beispiel Code aus dem freeCodeCamp
+> ### Beispiel Code aus dem **freeCodeCamp**
 
 ```js
 function chainToSwitch(val) {
   let answer = "";
-  // Only change code below this line
 switch(val) {
  case "bob":
   answer = "Marley";
@@ -31,9 +30,13 @@ answer = "Ate Nine";
 break;
 
 }
-  // Only change code above this line
-  return answer;
+return answer;
 }
 
 chainToSwitch(7);
 ```
+
+
+[Link zum freeCodecamp](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
+
+![Java Bild](https://images.pexels.com/photos/29445973/pexels-photo-29445973.jpeg)
