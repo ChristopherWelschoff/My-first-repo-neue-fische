@@ -7,7 +7,7 @@
 - CSS
 - React
 
-> ### Beispiel Code aus dem **freeCodeCamp**
+> ### Beispiel Code aus dem [**freeCodeCamp**](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
 
 ```js
 function chainToSwitch(val) {
@@ -37,6 +37,6 @@ chainToSwitch(7);
 ```
 
 
-[Link zum freeCodecamp](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
+
 
 ![Java Bild](https://images.pexels.com/photos/29445973/pexels-photo-29445973.jpeg)
