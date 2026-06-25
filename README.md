@@ -2,6 +2,17 @@
 
 ---
 
+## Neue Fisce "Seals":
+| Team | Coaches |
+|---|---|
+| Sebastian | Feline |
+| Emilie | Roland |
+| Oleg | Nina |
+| Juliane | Robin |
+| Christopher | Florian |
+
+---
+
 ## Lernziele:
 - Github      
 - Git
