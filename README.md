@@ -57,6 +57,6 @@ chainToSwitch(7);
 > **"Walking on water and developing software from a specification are easy if both are frozen."**\
 Edward V. Berard | American Software Engineer*
 
-
+---
 
 ![Java Bild](https://images.pexels.com/photos/29445973/pexels-photo-29445973.jpeg)
