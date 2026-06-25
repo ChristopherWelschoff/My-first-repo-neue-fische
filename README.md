@@ -3,13 +3,13 @@
 ---
 
 ## Neue Fische "Seals <img alt="Robben Emoji" src="https://discord.com/assets/0de2cbb95090de5d.svg" width="30">" :
-| Team | Coaches |
+| **Team** | **Coaches** |
 |---|---|
-| Sebastian | Feline |
-| Emilie | Roland |
-| Oleg | Nina |
-| Juliane | Robin |
-| Christopher | Florian |
+| *Sebastian* | *Feline* |
+| *Emilie* | *Roland* |
+| *Oleg* | *Nina* |
+| *Juliane* | *Robin* |
+| *Christopher* | *Florian* |
 
 ---
 
