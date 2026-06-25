@@ -1,11 +1,18 @@
 # Mein erstes GitHub Repository
 
+---
+
 ## Lernziele:
+- Github      
+- Git
+- Markdown     
 - HTML
 - CSS
 - JavsScript
-- CSS
 - React
+
+---
+
 
 > ### Beispiel Code aus dem [**freeCodeCamp**](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
 
@@ -36,6 +43,7 @@ return answer;
 chainToSwitch(7);
 ```
 
+---
 
 
 
