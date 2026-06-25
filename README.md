@@ -2,7 +2,7 @@
 
 ---
 
-## Neue Fisce "Seals" <img alt="Robben Emoji" src="https://discord.com/assets/0de2cbb95090de5d.svg" width="30">:
+## Neue Fisce "Seals <img alt="Robben Emoji" src="https://discord.com/assets/0de2cbb95090de5d.svg" width="30">" :
 | Team | Coaches |
 |---|---|
 | Sebastian | Feline |
