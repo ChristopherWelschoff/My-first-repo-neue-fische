@@ -24,9 +24,7 @@
 
 ---
 
-
-
-> ### Beispiel Code aus dem [**freeCodeCamp**](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
+### Beispiel Code aus dem [**freeCodeCamp**](https://spiced-academy.notion.site/Preparation-Material-d4f586e587924df0830d0fef30091e0d)
 
 ```js
 function chainToSwitch(val) {
@@ -54,8 +52,10 @@ return answer;
 
 chainToSwitch(7);
 ```
-
 ---
+
+> **"Walking on water and developing software from a specification are easy if both are frozen."**  
+Edward V. Berard | American Software Engineer*
 
 
 
