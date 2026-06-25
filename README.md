@@ -1,5 +1,8 @@
 # Mein erstes GitHub Repository
 
+## Inhaltsverzeichnis
+- [Über mich](#über-mich)
+- [Projekte](#projekte)
 ---
 
 ## Neue Fische "Seals <img alt="Robben Emoji" src="https://discord.com/assets/0de2cbb95090de5d.svg" width="30">" :
@@ -59,4 +62,13 @@ chainToSwitch(7);
 
 ---
 
+## Über mich
+Hier steht Text...
+
+## Projekte
+Hier steht Text...
+
+
 ![Java Bild](https://images.pexels.com/photos/29445973/pexels-photo-29445973.jpeg)
+
+
